@@ -1,0 +1,9 @@
+.pDiv{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    gap: 5px;
+    font-size: 20px;
+    font-weight: 500;
+    line-height: 1.5;
+}
